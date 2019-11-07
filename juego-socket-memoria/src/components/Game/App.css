@@ -1,0 +1,7 @@
+body {
+  background-color: silver;
+}
+
+div:focus {
+  outline: none !important;
+}
